@@ -31,24 +31,6 @@ namespace WordsFromSub
             Translation = "NULL";
             FileContainingWord = "NOT FOUND";
             Status = WordStatus.newWord;
-            while(true)
-                {
-                ;
-                ;
-                ;
-                if(true)
-                    {
-                    ;
-                    ;
-                    ;
-                    }
-                ;
-                ;
-                ;
-                ;
-                ;
-
-                }
             }
         public Word(string newWordName, string fileContainingWord)
             {
